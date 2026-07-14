@@ -160,8 +160,5 @@ Senior QA Automation Engineer
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/chirag243/
 
-<<<<<<< HEAD
+
 ⭐ If you find this project useful, please consider giving it a **Star** on GitHub.
-=======
-⭐ If you find this project useful, please consider giving it a **Star** on GitHub.
->>>>>>> dc6d47974400f53acbeda9f01278ee8d23e0a15d
